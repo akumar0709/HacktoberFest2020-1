@@ -1,0 +1,8 @@
+You have to first install requred Libirary that is LIBGRAPH
+
+Compile your cpp file using 
+
+	cpp 'File name' -libgraph
+
+
+!!! Thank You !!!
